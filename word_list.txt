@@ -1,0 +1,981 @@
+Shanghai
+Penang
+Malaysia
+Nanjing
+Stuttgart
+Kumamoto
+Cebu
+Philippines
+Riyadh
+Saudi Arabia
+Orlando
+Manchester
+Bali
+Denpasar
+Indonesia
+Toyama
+Jeddah
+Las Vegas
+Barcelona
+Spain
+Takamatsu
+Doha
+Qatar
+Khartoum
+Sudan
+Phuket
+Honolulu
+Okayama
+Cambodia
+Wellington
+New Zealand
+Philadelphia
+Bahrain
+Madrid
+Saipan
+Seattle
+Hanoi
+Vietnam
+Nadi
+Fiji
+Islands
+Greece
+Jakarta
+Niigata
+Kuwait
+Dallas
+Cairns
+Hiroshima
+Nairobi
+Kenya
+Ho Chi Minh
+Adelaide
+Okinawa
+Taipei
+Cape Town
+South Africa
+Israel
+Komatsu
+San Francisco
+Guam
+Amsterdam
+Netherlands
+Singapore
+Chicago
+Perth
+Nagoya
+Istanbul
+Turkey
+Washington
+Toronto
+Canada
+Auckland
+Manila
+Melbourne
+Vancouver
+Frankfurt
+Osaka
+Johannesburg
+Dubai
+Arab Emirates
+Brisbane
+Paris
+France
+Tokyo
+Bangkok
+New York
+Sydney
+Beijing
+Cairo
+Egypt
+Hong Kong
+Los Angeles
+London
+Al Ain
+Abu Dhabi
+Ras Al Khaimah
+KABUL
+Afghanistan
+Antigua
+Tirana
+Albania
+Erevan
+Armenia
+Netherland
+Luanda
+Angola
+Cordoba
+Buenos Aires
+Graz
+Austria
+Linz
+Vienna
+Alice Springs
+Broome
+Canberra
+Coffs Harbour
+Darwin
+Hobart
+Gold Coast
+Aruba
+BAKU
+Azerbaijan
+Ganja
+Nakhichevan
+Bosnia Herzegovina
+Sarajevo
+Dhaka
+Bangladesh
+Brussels
+Burkina Faso
+Sofia
+Bulgaria
+Bujumbura
+Burundi
+Cotonou
+Benin
+Bermuda
+Bandar Seri Begawan
+Brunei
+La Paz
+Bolivia
+Santa Cruz
+Brasilia
+Brazil
+Cuiaba
+Curitiba
+Iguassu Falls
+Manaus
+Porto Alegre
+Vitoria
+Freeport
+Bahamas
+George Town
+Marsh Harbour
+Nassau
+Kasane
+Botswana
+Gaborone
+Minsk
+Belize
+Edmonton
+Ft McMurray
+Grande Prairie
+Medicine Hat
+Calgary
+Nanaimo
+Castlegar
+Kamloops
+Kelowna
+Prince Rupert
+Cranbrook
+Ft St John
+Prince George
+Terrace
+Penticton
+Victoria
+Winnipeg
+Fredericton
+Moncton
+St John
+Bathurst
+Deer Lake
+Gander
+Wabush
+St Johns
+Halifax
+Kingston
+Ottawa
+Windsor
+Thunder Bay
+Sudbury
+Timmins
+North Bay
+Sarnia
+Charlottetown
+Quebec
+Montreal
+Regina
+Saskatoon
+Whitehorse
+Lubumbashi
+Congo
+Kinshasa
+Brazzaville
+Berne
+Geneva
+Lugano
+Basel
+Abidjan
+Chile
+Santiago
+Douala
+Cameroon
+Yaounde
+BAOTOU
+DANDONG
+DUNHUANG
+DONGSHENG
+Handan
+JI AN
+Jinjiang
+Bogota
+Colombia
+Cali
+Medellin
+San Jose
+Costa Rica
+Cayo Coco
+Cuba
+Havana
+Varadero
+Ercan
+Cyprus
+Larnaca
+Ostrava
+Bremen
+Dresden
+Dusseldorf
+Friedrichshafen
+Muenster
+Hanover
+Nuremberg
+Paderborn
+Berlin
+Djibouti
+Aalborg
+Denmark
+Billund
+Copenhagen
+Grenada
+Dominica
+St Lucia
+Punta Cana
+Santo Domingo
+BATNA
+Constantine
+Oran
+Tlemcen
+Guayaquil
+Ecuador
+Quito
+Estonia
+Tallinn
+Borg El Arab
+Luxor
+Asmara
+Eritrea
+Malaga
+Alicante
+Bilbao
+Ibiza
+Palma
+Valencia
+Addis Ababa
+Ethiopia
+Helsinki
+Finland
+Ivalo
+Joensuu
+Kuusamo
+Kittila
+Kuopio
+Oulu
+Rovaniemi
+Vaasa
+Micronesia
+Brest
+Bastia
+Biarritz
+Aberdeen
+Belfast
+Birmingham
+Bristol
+Cardiff
+Leeds
+Newcastle
+Glasgow
+Batumi
+Georgia
+Tbilisi
+Cayenne
+Accra
+Ghana
+Malabo
+Kerkyra
+Mykonos
+Thira
+Thessaloniki
+Guatemala City
+Guatemala
+Honduras
+Croatia
+Pula
+Split
+Zadar
+Zagreb
+Haiti
+Budapest
+Hungary
+BANJARMASIN
+Bandung
+Balikpapan
+Batam
+Banda Aceh
+Jambi
+JAYAPURA
+SIBOLGA
+Yogjakarta
+LABUAN BAJO
+Medan
+MALANG
+Palembang
+Solo
+Surabaya
+Bandar Lampung
+Dublin
+Ireland
+Bangalore
+Mumbai
+Kochi
+Gaya
+Madurai
+Aurangabad
+Jaipur
+Lucknow
+Tiruchirappali
+Varanasi
+Vishakhapatanam
+Baghdad
+Iraq
+Basra
+ERBIL
+NAJAF
+Isfahan
+Iran
+Mashad
+Shiraz
+Teheran
+Reykjavik
+Iceland
+Ancona
+Brindisi
+Bologna
+Bari
+Cagliari
+Catania
+Florence
+Genoa
+Lampedusa
+Naples
+Olbia
+Perugia
+Palermo
+Pantelleria
+Pisa
+Turin
+Trieste
+Venice
+Verona
+Montego Bay
+Jamaica
+Amman
+Jordan
+Aqaba
+Asahikawa
+Aomori
+Amami O Shima
+Akita
+Shizuoka
+Yamagata
+Hakodate
+Saga
+Ishigaki
+Iwami
+Izumo
+Kita Kyushu
+Miyazaki
+Kagoshima
+Kushiro
+Memambetsu
+Miyako
+Misawa
+Matsuyama
+Nagasaki
+WAJIMA
+Obihiro
+Oita
+Odate Noshiro
+Nakashibetsu
+SHIRAHAMA
+Shonai
+Tokushima
+Tottori
+Ube
+KOBE
+Yonago
+Mombasa
+Bishkek
+Kyrgyzstan
+Phnom Penh
+Cayman
+Cayman Islands
+Kazakstan
+Almaty
+Karaganda
+Kzyl Orda
+Pavlodar
+Aktau
+Astana
+Uralsk
+Louangphrabang
+Vientiane
+Beirut
+Lebanon
+Colombo
+Sri Lanka
+Monrovia
+Liberia
+Maseru
+Lesotho
+Vilnius
+Lithuania
+Luxembourg
+Riga
+Latvia
+Casablanca
+Morocco
+Rabat
+Chisinau
+Moldova
+Madagascar
+Skopje
+Bamako
+Mali
+Myanmar
+NAYPYITAW
+Yangon
+Ulaanbaatar
+Mongolia
+Macau
+Rota
+Mauritania
+Malta
+Mauritius
+Blantyre
+Malawi
+Lilongwe
+Acapulco
+Mexico
+Aguascalientes
+Leon
+Cancun
+Chihuahua
+Guadalajara
+Mexico City
+Merida
+Monterrey
+San Luis Potosi
+Tampico
+Tijuana
+Torreon
+Villahermosa
+Alor Setar
+Kota Kinabalu
+Bintulu
+Johor Bahru
+Kota Bharu
+Kuching
+Kuantan
+Langkawi
+Kuala Terengganu
+Tawau
+Beira
+Mozambique
+Maputo
+Windhoek
+Namibia
+Noumea
+New Caledonia
+Niamey
+Niger
+Abuja
+Nigeria
+Enugu
+Kano
+Lagos
+Managua
+Nicaragua
+Rotterdam
+Aalesund
+Norway
+Bergen
+Oslo
+Stavanger
+Trondheim
+Kathmandu
+Nepal
+Blenheim
+Dunedin
+Kerikeri
+Palmerston
+Rotorua
+Tauranga
+Taupo
+Wanganui
+Whangarei
+Queenstown
+Muscat
+Oman
+Salalah
+Panama City
+Panama
+Lima
+Peru
+CLARK
+Davao
+Kalibo
+Islamabad
+Pakistan
+Karachi
+Lahore
+Multan
+Gdansk
+Poland
+Krakow
+Katowice
+Poznan
+Warsaw
+Wroclaw
+Faro
+Portugal
+Lisbon
+Porto
+Koror
+Palau
+Asuncion
+Paraguay
+Romania
+Constanta
+IASI
+Bucharest
+Belgrade
+Serbia
+Anapa
+Russia
+Sochi
+Arkhangelsk
+Astrakhan
+Chelyabinsk
+Kaliningrad
+Khabarovsk
+Krasnoyarsk
+Samara
+Kazan
+Murmansk
+Magnitogorsk
+Novosibirsk
+Perm
+Orenburg
+Stavropol
+Ekaterinburg
+Vladivostok
+Moscow
+Kigali
+Rwanda
+Dammam
+Taif
+Praslin Island
+Seychelles
+Mahe Island
+JUBA
+Gothenburg
+Sweden
+Stockholm
+Ljubljana
+Slovenia
+Bratislava
+Slovakia
+Sierra Leone
+Dakar
+Senegal
+MOGADISHU
+Somalia
+San Salvador
+El Salvador
+Chad
+Lome
+Togo
+Chiang Rai
+Chiang Mai
+Krabi
+Dushanbe
+Tajikistan
+Ashgabat
+Turkmenistan
+Tunis
+Tunisia
+Adana
+ADIYAMAN
+Agri
+Ankara
+Kayseri
+Antalya
+Bingol
+Bodrum
+Diyarbakir
+Dalaman
+Denizli
+Erzincan
+Erzurum
+Elazig
+ANADOLU
+Gazipasa
+Gaziantep
+HATAY
+IGDIR
+ISPARTA
+Izmir
+KAHRAMANMARAS
+Kastamonu
+Kars
+Konya
+Kutahya
+MALATYA
+Mardin
+Mus
+Nevsehir
+Sirnak
+Sinop
+Samsun
+Trabzon
+Sivas
+YUSEKOVA
+Hualien
+Kaohsiung
+Taichung
+Dar Es Salaam
+Tanzania
+Kilimanjaro
+Zanzibar
+Dnepropetrovsk
+Ukraine
+Kiev
+Kherson
+Odessa
+Simferopol
+Entebbe
+Uganda
+PANAMA CITY
+Anchorage
+Fairbanks
+Birmingham
+Dothan
+Huntsville
+Montgomery
+Mobile
+Ft Smith
+Fayetteville
+Little Rock
+Texarkana
+Phoenix
+Tucson
+Eureka
+Bakersfield
+Carlsbad
+Fresno
+Monterey
+Palm Springs
+Redding
+San Diego
+Santa Barbara
+Burbank
+Ontario
+ase
+Colorado Springs
+Denver
+Durango
+Eagle
+Grand Junction
+Gunnison
+Montrose
+Hartford
+Daytona Beach
+Key West
+Fort Myers
+Gainesville
+Jacksonville
+Pensacola
+Sarasota
+Tallahassee
+Tampa
+Ft Walton Beach
+Ft Lauderdale
+Miami
+West Palm Beach
+Albany
+Augusta
+Columbus
+Savannah
+Valdosta
+Hilo
+Kona
+Lihue
+Lanai
+Hoolehua
+Kahului
+Cedar Rapids
+Dubuque
+Boise
+Idaho Falls
+Lewiston
+Pocatello
+Sun Valley
+Twin Falls
+Bloomington
+Moline
+Peoria
+Springfield
+Evansville
+Ft Wayne
+South Bend
+Wichita
+Manhattan
+Lexington
+Paducah
+Louisville
+Alexandria
+Baton Rouge
+Lake Charles
+Lafayette
+Monroe
+Shreveport
+Baltimore
+Bangor
+Portland
+Alpena
+Kalamazoo
+Detroit
+Escanaba
+Flint
+Grand Rapids
+Lansing
+Marquette
+Traverse
+Bemidji
+Duluth
+Columbia
+Joplin
+Kansas City
+St Louis
+Gulfport
+Jackson
+Billings
+Butte
+Bozeman
+Kalispell
+Great Falls
+Missoula
+Asheville
+Charlotte
+New Bern
+Greensboro
+Wilmington
+Bismarck
+Fargo
+Omaha
+Manchester
+Albuquerque
+Roswell
+Santa Fe
+Elko
+Reno
+Binghamton
+Buffalo
+Elmira
+White Plains
+Rochester
+Newburgh
+Syracuse
+Cincinnati
+Dayton
+Toledo
+Lawton
+Oklahoma City
+Tulsa
+Eugene
+Medford
+Redmond
+Allentown
+Erie
+Harrisburg
+Pittsburgh
+State College
+San Juan
+Providence
+Charleston
+Greenville
+Myrtle Beach
+Rapid City
+Chattanooga
+Memphis
+Knoxville
+Abilene
+Waco
+Amarillo
+Austin
+Brownsville
+Corpus Christi
+El Paso
+Longview
+Lubbock
+Laredo
+Midland
+McAllen
+San Antonio
+San Angelo
+Wichita Falls
+Tyler
+Cedar City
+St George
+Salt Lake City
+Charlottesville
+Newport News
+Richmond
+Roanoke
+Staunton
+Burlington
+Bellingham
+Spokane
+Pasco
+Appleton
+Green Bay
+La Crosse
+Milwaukee
+Madison
+Cody
+Casper
+Rock Springs
+Montevideo
+Uruguay
+Bukhara
+Uzbekistan
+KARSHI
+NUKUS
+Tashkent
+Caracas
+Venezuela
+Da Nang
+Nha Trang
+Sanaa
+Yemen
+Pristina
+Yugoslavia
+Podgorica
+Bloemfontein
+Durban
+East London
+George
+Kimberley
+Nelspruit
+Port Elizabeth
+Pietersburg
+Pietermaritzburg
+Richards Bay
+Umtata
+Lusaka
+Zambia
+Goma
+Bulawayo
+Zimbabwe
+Harare
+gap
+cat
+book
+apt
+setback
+act
+stamp
+cape
+nest
+part
+desk
+make
+apple
+mattress
+bulb
+land
+zigzag
+lobster
+kidnap
+signal
+mask
+jazz
+graph
+olive
+thrill
+bathe
+flash
+shrub
+shark
+shank
+fashion
+sheriff
+shopping
+shoe
+shim
+mirage
+vision
+odds
+switch
+bridge
+hitchhike
+chart
+virgin
+steam
+corn
+ring
+lamp
+hint
+ink
+hanging
+longing
+hotel
+pulp
+slide
+film
+helm
+swoln
+team
+route
+time
+house
+skate
+oil
+boat
+tower
+word
+want
+woe
+wander
+wag
+west
+witch
+wool
+swing
+twist
+penguin
+whistle
+quarter
+yard
+yank
+yearn
+yellow
+yawn
+you
+year
+battalion
+union
+cuplike
+bookend
+headlight
