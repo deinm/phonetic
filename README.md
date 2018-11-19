@@ -1,4 +1,4 @@
-# phonetic
+# Phonetic
 Phonetic is a second education content of DodamDodam.
 Phonetic은 도담도담의 두 번째 학습 기능입니다.
 외국인들을 위한 한국어 교육인 만큼, 제 1의 언어인 모국어를 학습했던 경험을 살려 한국어를 학습할 수 있도록 기획된 컨텐츠입니다.
