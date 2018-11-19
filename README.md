@@ -1,2 +1,2 @@
 # phonetic
-Phonetic and other contents
+Phonetic is a second education contents of DodamDodam.
