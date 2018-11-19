@@ -26,44 +26,48 @@ Phonetic은 도담도담의 두 번째 학습 기능입니다.
 ## Usage
 1. conversion_engtokor.py
 
--input : 영단어(list)
+* input : 영단어(list)
 
--output : `eng_to_kor.txt` 
+* output : `eng_to_kor.txt` 
 
-eng_to_kor : 영단어를 한글 발음으로 바꿈. Ex) person -> 퍼슨
+`eng_to_kor.txt` : 영단어를 한글 발음으로 바꿈. Ex) person -> 퍼슨
+
 
 2. g2p.py
 
--input : `eng_to_kor.txt`
+* input : `eng_to_kor.txt`
 
--output : `kor_to_read.txt`
+* output : `kor_to_read.txt`
 
 `kor_to_read.txt` : 한글을 [발음기호] 자음 모음 단위로 분할함. 즉, 음운의 변동 고려. Ex) 앱소브 -> ㅐㅂㅆㅗㅂㅡ
 
+
 3. convertion_eng.py
 
--input : `kor_to_read.txt`
+* input : `kor_to_read.txt`
 
--output : `read_to_eng.txt`, `phonetic_ans.txt`, `phonetic_ans_combine.txt`
+* output : `read_to_eng.txt`, `phonetic_ans.txt`, `phonetic_ans_combine.txt`
 
 `read_to_eng.txt` : `kor_to_read.txt`에서 한글 [발음기호]로 변환했던 내용을 다시 영어로 변환 Ex) 말레이시아 -> malreisia
 `phonetic_ans.txt` : 영단어->한글(음운변동 X)을 자음 모음 단위로 분할 Ex) 말레이시아 -> ㅁㅏㄹㄹㅔㅇㅣ시ㅇㅏ
 `phonetic_ans_combine.txt` : `phonetic_ans.txt`의 분리된 자음 모음을 결합 Ex) ㅁㅏㄹㄹㅔㅇㅣㅅㅣㅇㅏ -> 말레이시아
 
+
 4. word_compare.py
 
--input : `word_list.txt`, `read_to_eng.txt`
+* input : `word_list.txt`, `read_to_eng.txt`
 
--output : `phonetic_words.txt`
+* output : `phonetic_words.txt`
 
 `word_list.txt` : 변환의 과정을 하나도 거치지않은 순수한 초기 단어 목록들. Ex) Shanghai, Penang, Malaysia, ...
 `phonetic_words.txt` : 순수한 단어들(`word_list.txt`)와 영->한->영을 거친 단어들(`read_to_eng.txt`)를 비교해서 동일한 결과가 나온 단어들만 따로 모음. 실제 표음 학습 문제 출제에 사용할 것임. Ex) ring, hotel, oil
 
+
 5. pho_qgenerater.py
 
--input : `word_list.txt`, `phonetic_words.txt`, `phonetic_ans.txt`, `phonetic_ans_combine.txt`
+* input : `word_list.txt`, `phonetic_words.txt`, `phonetic_ans.txt`, `phonetic_ans_combine.txt`
 
--output : 문제 출력
+* output : 문제 출력
 
 오답지 4개+정답지 1개 총 5지선다로 구성된 문제 출제
 
