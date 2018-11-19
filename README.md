@@ -25,7 +25,8 @@ To convert English words in Korean, we need to do the followings :
 3. Convert Korean word to pronunciation symbol.
 4. Convert pronunciation symbol to English word.
 
-These procedure is needed because Korean word could written different in English due to phonological variation.
+These procedure is needed because Korean word could written different in English due to **phonological variation**.
+
 If the English word from #4 is same as the English word in #1,
 we decide that the word can be used in phonetic learning becasue it has the same result when we convert English word to Korean and Korean word to English according to Korean grammer.
 
