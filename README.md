@@ -25,6 +25,7 @@ Phonetic은 도담도담의 두 번째 학습 기능입니다.
 
 ## Usage
 
+## Sample
 txt 파일이 굉장히 많은데 자세히 보면
 비슷한 이름의 파일들이 7개(eng_to_kor 7개, kor_to_read 7개, phonetic_ans 7개, ...)씩 있음
 그리고 뒤에 (아무것도 안달림), _3000, _conv, _ebs, _ele, _fru, _wiki등이 붙어 있음
@@ -81,5 +82,3 @@ phonetic_words : 순수한 단어들(word_list)와 영->한->영을 거친 단�
 
 word_list.csv : 최종 표음 학습 단어 목록
 + question_generater : ㄱㄴㄷㄹ 자음모음 학습 문제 출제
-
-## Sample
