@@ -1,6 +1,6 @@
 # Phonetic
-Phonetic is a second education content of DodamDodam.
-As DodamDodam is an Korean learning application for foreigners,
+Phonetic is a second education content of **DodamDodam**.
+As **DodamDodam** is an Korean learning application for foreigners,
 this phonetic content was designed to make foreigners apply their experience of learning any language(especially mother language) to learning Korean.
 
 Korean has special characteristic - we can write Korean as it sounds.
@@ -86,20 +86,20 @@ The questions are consist of 4 wrong answers and 1 right answer.
 
 ## Sample
 You can find 7 files that have similar names.(eng_to_kor * 7, kor_to_read * 7, phonetic_ans * 7, ...)
-Ans each of them has (Nothing), _3000, _conv, _ebs, _ele, _fru, _wiki after the file name.
+Ans each of them has (Nothing), _3000, _conv, _ebs, _ele, _fru, _wiki after the file name, and it shows which kind of vocabulary it is consist of.
 
-(Nothing) : Cities and Countries
+* (Nothing) : Cities and Countries
 
-_3000 : Essesntial English word 3000
+* _3000 : Essesntial English word 3000
 
-_conv : Essential words for converstaion
+* _conv : Essential words for converstaion
 
-_ebs : Essesntial words from ebs
+* _ebs : Essesntial words from ebs
 
-_ele : Essesntial words for elementary school students
+* _ele : Essesntial words for elementary school students
 
-_fru : Fruit
+* _fru : Fruit
 
-_wiki : Foreign language words from wiki
+* _wiki : Foreign language words from wiki
 
 After Securing the word data, we go through the process aboce(1~5) and finally get the phonetic words that we can use.
