@@ -5,7 +5,7 @@ As **DodamDodam** is an Korean learning application for foreigners,
 this phonetic content was designed to make foreigners apply their experience of learning any language(especially mother language) to learning Korean.
 
 Korean has special characteristic - we can write Korean as it sounds.
-This means that Korean is a phonetic language.
+This means that Korean is a **phonetic language.**
 
 In this curriculum, the learner have to solve some phonetic problems.
 The words of their mother tounge will be given, and they should do dictation in Korean,
