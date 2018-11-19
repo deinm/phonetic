@@ -11,8 +11,8 @@ In this curriculum, the learner have to solve some phonetic problems.
 The words of their mother tounge will be given, and they should do dictation in Korean,
 which means they should find the right Korean word that sounds like mother tounge word when we read them.
 
-The goal of this content is understanding Korean's special characteristic, phonetic,
-and develop one's ability to read Korean words.
+The goal of this content is **understanding Korean's special characteristic, phonetic,
+and develop one's ability to read Korean words.**
 
 Currently, DodamDodam has contents only for English users, but we are planning to support Japanese, Chinese, and any other foriegn languages in the future.
 
