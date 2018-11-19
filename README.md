@@ -9,4 +9,59 @@ Phonetic은 도담도담의 두 번째 학습 기능입니다.
 학습의 목표는 한국어의 표음이라는 특성을 이해하고, 한국어 단어를 읽을 수 있는 능력을 기르는 것입니다.
 
 ## Usage
-사용법
+txt 파일이 굉장히 많은데 자세히 보면
+비슷한 이름의 파일들이 7개(eng_to_kor 7개, kor_to_read 7개, phonetic_ans 7개, ...)씩 있음
+그리고 뒤에 (아무것도 안달림), _3000, _conv, _ebs, _ele, _fru, _wiki등이 붙어 있음
+
+(아무것도 안달림) : 지명
+_3000 : 필수 영단어 3000
+_conv : 회화 필수 영단어
+_ebs : ebs필수 영단어
+_ele : 초등 필수 영단어
+_fru : 각종 과일 이름
+_wiki : 위키백과에 있는 각종 외래어들
+
+이런 영어단어를 바탕으로 돌린 결과값들.
+단어 데이터를 많이 확보하기 위한 노력..이랄까..
+
+단어 데이터를 확보하면 다음과 같은 순서로 코드를 돌림
+
+
+1. conversion_engtokor.py
+-input : 영단어(list)
+-output : eng_to_kor.txt
+
+eng_to_kor : 영단어를 한글 발음으로 바꿈. Ex) person -> 퍼슨
+
+2. g2p.py
+-input : eng_to_kor.txt
+-output : kor_to_read.txt
+
+kor_to_read : 한글을 [발음기호] 자음 모음 단위로 분할함. 즉, 음운의 변동 고려. Ex) 앱소브 -> ㅐㅂㅆㅗㅂㅡ
+
+3. convertion_eng.py
+-input : kor_to_read
+-output : read_to_eng, phonetic_ans, phonetic_ans_combine
+
+read_to_eng : kor_to_read에서 한글 [발음기호]로 변환했던 내용을 다시 영어로 변환 Ex) 말레이시아 -> malreisia
+phonetic_ans : 영단어->한글(음운변동 X)을 자음 모음 단위로 분할 Ex) 말레이시아 -> ㅁㅏㄹㄹㅔㅇㅣ시ㅇㅏ
+phonetic_ans_combine : phonetic_ans의 분리된 자음 모음을 결합 Ex) ㅁㅏㄹㄹㅔㅇㅣㅅㅣㅇㅏ -> 말레이시아
+
+4. word_compare.py
+-input : word_list, read_to_eng
+-output : phonetic_words
+
+word_list : 변환의 과정을 하나도 거치지않은 순수한 초기 단어 목록들. Ex) Shanghai, Penang, Malaysia, ...
+phonetic_words : 순수한 단어들(word_list)와 영->한->영을 거친 단어들(read_to_eng)를 비교해서 동일한 결과가 나온 단어들만 따로 모음. 실제 표음 학습 문제 출제에 사용할 것임. Ex) ring, hotel, oil
+
+5. pho_qgenerater.py
+-input : word_list, phonetic_words, phonetic_ans, phonetic_ans_combine
+-output : 문제 출력
+
+오답지 4개+정답지 1개 총 5지선다로 구성된 문제 출제
+
+
+
+
+word_list.csv : 최종 표음 학습 단어 목록
++ question_generater : ㄱㄴㄷㄹ 자음모음 학습 문제 출제
