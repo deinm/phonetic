@@ -31,7 +31,7 @@ If the English word from #4 is same as the English word in #1,
 we decide that the word can be used in phonetic learning becasue it has the same result when we convert English word to Korean and Korean word to English according to Korean grammer.
 
 ## Usage
-1. conversion_engtokor.py
+**1. conversion_engtokor.py**
 
 * input : English words(list)
 
@@ -43,7 +43,7 @@ Ex) person -> 퍼슨
 
 
 
-2. g2p.py
+**2. g2p.py**
 
 * input : `eng_to_kor.txt`
 
@@ -55,7 +55,7 @@ Ex) 앱소브 -> ㅐㅂㅆㅗㅂㅡ
 
 
 
-3. convertion_eng.py
+**3. convertion_eng.py**
 
 * input : `kor_to_read.txt`
 
@@ -74,7 +74,7 @@ Ex) 말레이시아 -> ㅁㅏㄹㄹㅔㅇㅣ시ㅇㅏ
 Ex) ㅁㅏㄹㄹㅔㅇㅣㅅㅣㅇㅏ -> 말레이시아
 
 
-4. word_compare.py
+**4. word_compare.py**
 
 * input : `word_list.txt`, `read_to_eng.txt`
 
@@ -89,7 +89,7 @@ Ex) Shanghai, Penang, Malaysia, ...
 Ex) ring, hotel, oil
 
 
-5. pho_qgenerater.py
+**5. pho_qgenerater.py**
 
 * input : `word_list.txt`, `phonetic_words.txt`, `phonetic_ans.txt`, `phonetic_ans_combine.txt`
 
