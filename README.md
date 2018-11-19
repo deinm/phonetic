@@ -1,5 +1,6 @@
 # Phonetic
 Phonetic is a second education content of **DodamDodam**.
+
 As **DodamDodam** is an Korean learning application for foreigners,
 this phonetic content was designed to make foreigners apply their experience of learning any language(especially mother language) to learning Korean.
 
