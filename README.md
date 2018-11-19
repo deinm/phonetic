@@ -56,7 +56,9 @@ we decide that the word can be used in phonetic learning becasue it has the same
 * output : `read_to_eng.txt`, `phonetic_ans.txt`, `phonetic_ans_combine.txt`
 
 `read_to_eng.txt` : Convert the consonant vowel unit seperated korean words in `kor_to_read.txt` to English word. Ex) 말레이시아 -> malreisia
+
 `phonetic_ans.txt` : Divide Korean words without phonological variation by consonant vowel unit. Ex) 말레이시아 -> ㅁㅏㄹㄹㅔㅇㅣ시ㅇㅏ
+
 `phonetic_ans_combine.txt` : Combine the seperated voewls in `phonetic_ans.txt`. Ex) ㅁㅏㄹㄹㅔㅇㅣㅅㅣㅇㅏ -> 말레이시아
 
 
@@ -67,6 +69,7 @@ we decide that the word can be used in phonetic learning becasue it has the same
 * output : `phonetic_words.txt`
 
 `word_list.txt` : English words without any process of transformation. Ex) Shanghai, Penang, Malaysia, ...
+
 `phonetic_words.txt` : The result of comparing 'pure' words in `word_list.txt` and result words in `read_to_eng.txt`. We just use the words that has same results in phonetic learning. Ex) ring, hotel, oil
 
 
