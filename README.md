@@ -89,11 +89,17 @@ You can find 7 files that have similar names.(eng_to_kor * 7, kor_to_read * 7, p
 Ans each of them has (Nothing), _3000, _conv, _ebs, _ele, _fru, _wiki after the file name.
 
 (Nothing) : Cities and Countries
+
 _3000 : Essesntial English word 3000
+
 _conv : Essential words for converstaion
+
 _ebs : Essesntial words from ebs
+
 _ele : Essesntial words for elementary school students
+
 _fru : Fruit
+
 _wiki : Foreign language words from wiki
 
 After Securing the word data, we go through the process aboce(1~5) and finally get the phonetic words that we can use.
