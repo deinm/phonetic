@@ -25,7 +25,9 @@ Phonetic은 도담도담의 두 번째 학습 기능입니다.
 
 ## Usage
 1. conversion_engtokor.py
+
 -input : 영단어(list)
+
 -output : `eng_to_kor.txt` 
 
 eng_to_kor : 영단어를 한글 발음으로 바꿈. Ex) person -> 퍼슨
