@@ -37,7 +37,9 @@ we decide that the word can be used in phonetic learning becasue it has the same
 
 * output : `eng_to_kor.txt` 
 
-`eng_to_kor.txt` : Convert English word to Korean as it sounds Ex) person -> 퍼슨
+`eng_to_kor.txt` : Convert English word to Korean as it sounds.
+
+Ex) person -> 퍼슨
 
 
 
@@ -47,7 +49,9 @@ we decide that the word can be used in phonetic learning becasue it has the same
 
 * output : `kor_to_read.txt`
 
-`kor_to_read.txt` : Convert Korean word to pronunciation symbol, and divide by consonant vowel unit. Phonological variation appears after this step. Ex) 앱소브 -> ㅐㅂㅆㅗㅂㅡ
+`kor_to_read.txt` : Convert Korean word to pronunciation symbol, and divide by consonant vowel unit. Phonological variation appears after this step.
+
+Ex) 앱소브 -> ㅐㅂㅆㅗㅂㅡ
 
 
 
@@ -57,11 +61,17 @@ we decide that the word can be used in phonetic learning becasue it has the same
 
 * output : `read_to_eng.txt`, `phonetic_ans.txt`, `phonetic_ans_combine.txt`
 
-`read_to_eng.txt` : Convert the consonant vowel unit seperated korean words in `kor_to_read.txt` to English word. Ex) 말레이시아 -> malreisia
+`read_to_eng.txt` : Convert the consonant vowel unit seperated korean words in `kor_to_read.txt` to English word.
 
-`phonetic_ans.txt` : Divide Korean words without phonological variation by consonant vowel unit. Ex) 말레이시아 -> ㅁㅏㄹㄹㅔㅇㅣ시ㅇㅏ
+Ex) 말레이시아 -> malreisia
 
-`phonetic_ans_combine.txt` : Combine the seperated voewls in `phonetic_ans.txt`. Ex) ㅁㅏㄹㄹㅔㅇㅣㅅㅣㅇㅏ -> 말레이시아
+`phonetic_ans.txt` : Divide Korean words without phonological variation by consonant vowel unit.
+
+Ex) 말레이시아 -> ㅁㅏㄹㄹㅔㅇㅣ시ㅇㅏ
+
+`phonetic_ans_combine.txt` : Combine the seperated voewls in `phonetic_ans.txt`.
+
+Ex) ㅁㅏㄹㄹㅔㅇㅣㅅㅣㅇㅏ -> 말레이시아
 
 
 4. word_compare.py
@@ -70,9 +80,13 @@ we decide that the word can be used in phonetic learning becasue it has the same
 
 * output : `phonetic_words.txt`
 
-`word_list.txt` : English words without any process of transformation. Ex) Shanghai, Penang, Malaysia, ...
+`word_list.txt` : English words without any process of transformation.
 
-`phonetic_words.txt` : The result of comparing 'pure' words in `word_list.txt` and result words in `read_to_eng.txt`. We just use the words that has same results in phonetic learning. Ex) ring, hotel, oil
+Ex) Shanghai, Penang, Malaysia, ...
+
+`phonetic_words.txt` : The result of comparing 'pure' words in `word_list.txt` and result words in `read_to_eng.txt`. We just use the words that has same results in phonetic learning.
+
+Ex) ring, hotel, oil
 
 
 5. pho_qgenerater.py
